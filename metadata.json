@@ -1,0 +1,9 @@
+
+{
+  "name": "E-Commerce Sentiment Insight Hub",
+  "description": "An advanced AI-powered dashboard for analyzing customer reviews, sentiment trends, and actionable business insights with interactive visualizations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
